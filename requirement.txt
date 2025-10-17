@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-# ccxt adalah paket utama yang mencakup ccxt.pro
-ccxt==4.3.111
-asyncio
+ccxt
+websockets
+aiohttp
