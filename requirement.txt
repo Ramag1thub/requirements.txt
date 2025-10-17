@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-ccxt==4.0.86
+ccxt
