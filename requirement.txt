@@ -2,7 +2,3 @@ streamlit
 pandas
 numpy
 ccxt
-ccxt.pro
-websockets
-aiohttp
-
