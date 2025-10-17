@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+ccxt==4.3.111  
+ccxt.pro
+asyncio
